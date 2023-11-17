@@ -1,1 +1,2 @@
 # Packman-with-minimax
+The game board is a 9x18 environment with a certain number of obstacles. There are 2 ghosts with random moves. The goal of the game is to eat all the points with the least movement and get the most points; Also, Pacman should not be eaten by ghosts. This game has no input and the computer as an intelligent agent plays the role of Pacman and chooses the direction of movements.
